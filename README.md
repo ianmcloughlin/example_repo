@@ -8,8 +8,6 @@ This repository contains Jupyter notebooks and other relevant files demonstratin
 
 ## Install
 
-***
-
 Steps to install...
 
 1. Get stuff.
@@ -19,8 +17,6 @@ Steps to install...
 
 ## Run
 
-***
-
 Here's how to run the project/notebooks:
 
 1. Open terminal.
@@ -29,8 +25,6 @@ Here's how to run the project/notebooks:
 
 
 ## Explore
-
-***
 
 Have a look at the two notebooks in this repository in Jupyter.
 Some interesting aspects:
@@ -46,7 +40,6 @@ def f(x):
 
 ## Credits
 
-***
 
 ### Qiskit
 
@@ -57,6 +50,5 @@ You can find it here:
 
 ## Contact
 
-***
 
 [ian.mc@gmit.ie](mailto:ian.mc@gmit.ie)
